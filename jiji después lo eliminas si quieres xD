@@ -1,0 +1,8 @@
+# include< stdio.h>
+int main(){
+   printf(“este es mi segundo codigo\n");
+   printf(“Programar es cosa del diablo\n”);
+   printf(“Voy a compartir elcodigo con micompañero Emma :3\n);
+   printf(“\n Olvera Martínez Jesús Roberto\n");
+   return 0;
+}
